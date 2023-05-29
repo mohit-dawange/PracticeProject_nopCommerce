@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T12:34:09 IST" name="BoomID Hub" finished-at="2023-05-29T12:35:34 IST" duration-ms="84507">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T12:34:09 IST" name="Test" finished-at="2023-05-29T12:35:34 IST" duration-ms="84507">
+      <class name="com.BoomIDHub.TestCases.QuizFlowNavigation">
+        <test-method signature="loginTeest()[pri:0, instance:com.BoomIDHub.TestCases.QuizFlowNavigation@51e5fc98]" started-at="2023-05-29T12:34:09 IST" name="loginTeest" finished-at="2023-05-29T12:35:05 IST" duration-ms="55473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTeest -->
+      </class> <!-- com.BoomIDHub.TestCases.QuizFlowNavigation -->
+      <class name="com.BoomIDHub.TestCases.LogInTest">
+        <test-method signature="loginTest()[pri:0, instance:com.BoomIDHub.TestCases.LogInTest@7c469c48]" started-at="2023-05-29T12:35:05 IST" name="loginTest" finished-at="2023-05-29T12:35:34 IST" duration-ms="28956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.BoomIDHub.TestCases.LogInTest -->
+    </test> <!-- Test -->
+  </suite> <!-- BoomID Hub -->
+</testng-results>
